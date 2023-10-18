@@ -7,7 +7,7 @@ categories:
   - webusite
 ---
 
-##Header goes here
+## Header goes here
 
 other text.
-[link](https://www.baidu.com)
+[baidu.com](https://www.baidu.com)
