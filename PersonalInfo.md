@@ -3,4 +3,4 @@ title: "Resume"
 permalink: "/Resume/"
 layout: page
 ---
-[link](https://ruiaojiao.github.io/Ruiao-Jiao.pdf)
+[Resume](https://ruiaojiao.github.io/Resume-Ruiao.pdf)
