@@ -1,5 +1,5 @@
 ---
-title:  "Our New Post"
+title:  "Our New Post 1.1"
 subtitle: "the first post with ruiao"
 mathjax: true
 layout: post
