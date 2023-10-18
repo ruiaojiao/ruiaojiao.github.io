@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Home"
+title: "Post"
 ---
 
 {% if site.show_excerpts %}
   {% include home.html %}
 {% else %}
-  {% include archive.html title="Home" %}
+  {% include archive.html title="Post" %}
 {% endif %}
