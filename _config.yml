@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home"}
   - {file: "Resume_Ruiao.pdf", title: "Resume"}
   - {file: "README.md", title: "About"}
-  - {file: "index.html", title: "Post"}
+  - {file: "post.md", title: "Post"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jiaoruiao@gmail.com"}
