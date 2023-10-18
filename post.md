@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: postlayout
 title: "Post"
 ---
 
