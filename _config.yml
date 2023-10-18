@@ -1,4 +1,4 @@
-title: "Ruiao Jiao00"
+title: "Ruiao Jiao123"
 author: "Ruiao Jiao"
 description: "Ruiao Jiao's Personal Website"
 permalink: /:title/
@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title: "Home"}
+  - {file: "index.html", title: "Home"}
   - {file: "PersonalInfo.md", title: "Resume"}
   - {file: "README.md", title: "About"}
   - {file: "post.md", title: "Post"}
