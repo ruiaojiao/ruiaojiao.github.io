@@ -5,7 +5,7 @@ mathjax: true
 layout: post
 categories: 
   - github
-  - webusite
+  - website
 ---
 ## the first post with ruiao for the subtitle
 ###### Header goes here
