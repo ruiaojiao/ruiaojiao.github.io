@@ -2,7 +2,7 @@
 layout: post
 title: "The Recovery of U.S Restaurant Industry In 2021"
 subtitle: "How well the restaurant industry is recovering in 2021 with the impact of COVID-19?"
-background: '/_imgs/posts/restaurant_covid/res.jpg'
+
 thumbnail: '/_imgs/posts/restaurant_covid/fig_1.png'
 ---
 <div class="col-lg-8 col-md-10 mx-auto" markdown="1">
@@ -25,7 +25,7 @@ able to
 
 - <strong class="covid">Vaccinations</strong> greatly boost the confidence for owners to reopen but the policy of mask order during the pandemic does not seem to affect the industry significantly.
 
-![U.S restaurant industy in recovery overivew](/img/posts/restaurant_covid/fig_1.png "U.S restaurant overview")
+![U.S restaurant industy in recovery overivew](/_img/posts/restaurant_covid/fig_1.png "U.S restaurant overview")
 
 From the figure, the daily test positive cases does not show a dramatic increase, it does indicate that it is the start of the pandemic season. Then at the end of 2020, the restaurant industry is taking another hit while the whole country is experiencing its worst impact. Throughout the whole 2020, the trend of daily positive test cases is <strong class="covid">increasing</strong> and the trend of restaurants reopen is <strong class="uber">decreasing</strong>. There is no doubt that the whole industry is <strong class="covid">heavily damaged</strong> by the virus since the daily open percentage is never even close to what it was in 2019 at any given day in 2020. However, the trend changes in 2021 with <strong class="covid">help of vaccinations</strong>. By comparing all three line charts, the pandemic has another peak in September but the recovery of the industry is more stable comparing to last year. It could be the reason that more than half of people are vaccinated and are confident that the virus can be under control over the time. 
 </div>
@@ -112,10 +112,10 @@ From the figure, the daily test positive cases does not show a dramatic increase
 </div>
 </div>
 <div class="col-md-6 smallimg" markdown="1">
-![Nebraska](/img/posts/restaurant_covid/fig_4.png "Nebraska")
+![Nebraska](/_img/posts/restaurant_covid/fig_4.png "Nebraska")
 </div>
 <div class="col-md-6 smallimg" markdown="1">
-![Rhode Island](/img/posts/restaurant_covid/fig_5.png "Rhode Island")
+![Rhode Island](/_img/posts/restaurant_covid/fig_5.png "Rhode Island")
 </div>
 
 <div class="col-lg-8 col-md-10 mx-auto" markdown="1">
@@ -123,20 +123,13 @@ Considering the difference of population in different states, I have picked two 
 
 All four states’ industries suffer a big drop at the start of the pandemic even though positive test cases does not show a drastic increase right away. And during the <strong class="covid">winter in 2020</strong>, the restaurant industry of all four states are at another bottom. However, having less population seems to have a faster recovery speed for the industry especially during the year of 2020. In 2021, however, four different states show different patterns due to various reasons.  Except California, the other three states show that the restaurant industry is recovering to almost the same level as in 2019, which can be considered to be <strong class="covid">back to normal</strong>. By having the most population of all  states in the country, <strong class="covid">California</strong> restaurant industry is still slowly climbing back to the normal stage.
 
-![The mask order](/img/posts/restaurant_covid/fig_6.png "The mask order")
+![The mask order](/_img/posts/restaurant_covid/fig_6.png "The mask order")
 
 Another potential reason could be <strong class="policy">policy</strong> imposed by different states. Figure shows<strong class="covid"> the difference of vaccination rate and mask order in four different states</strong>. California, having the most population and the most vaccinated population, is still the slowest for the recovery process; it is also the only state that imposes Mask Order throughout the whole time. It is clear that the vaccination rate in all four states has over 50% and it provides a <strong class="covid"> huge boost</strong> for the restaurant industry. On the other hand, the mask order does not seem to affect the industry recovery at all, rather it shows the state of the pandemic. More importantly, the difference between California and Texas shows that there are some other reasons that delay the restaurant recovery. 
 
  <br/><br/>
  
 
-> Python pacakges that are used:
-> - pandas
-> - matplotlib
-> - seaborn
-> 
-> <a href="/pdf/project_python_code.pdf" target="_blank">Python code</a>
-</div>
 
 
 
