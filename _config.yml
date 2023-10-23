@@ -17,8 +17,8 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home"}
-  - {file: "PersonalInfo.md", title: "Resume"}
   - {file: "README.md", title: "About"}
+  - {file: "PersonalInfo.md", title: "Resume"}
   - {file: "post.md", title: "Post"}
 
 paginate_path: "posts/page: num/"
