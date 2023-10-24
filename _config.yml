@@ -24,11 +24,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 paginate_path: "posts/page: num/"
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-<<<<<<< HEAD
   - {title: Mail, icon: fa-regular faEnvelope, url: "mailto:jiaoruiao@gmail.com"}
-=======
-  - {title: Mail, icon: faEnvelope, url: "jiaoruiao@gmail.com"}
->>>>>>> e24d15e91c4b3ae7ad98deedde4ccaa6c6ce30f1
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/ruiao-jiao"}
   - {title: Github, icon: github, url: "https://github.com/ruiaojiao"}
 
