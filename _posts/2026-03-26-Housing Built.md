@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Housing/Built Dashboard"
+---
+
+
+
+---
+Economic index in graphs.
+
+---
+
+
+### Housing Built **Reference:** [FRED](https://fred.stlouisfed.org/)
+### NAHB
+<!--
+#### -- Semiannually<br>
+
+**Period:** ***1955-02*** to ***Current*** <br>
+**Frequency:** Semiannual<br>
+**Unit:** Percent Change
+
+
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1Ueaj&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe><br>
+[Reference](https://fred.stlouisfed.org/graph/?g=1Ueaj)
+-->
